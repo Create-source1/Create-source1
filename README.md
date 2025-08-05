@@ -15,7 +15,7 @@
 - 🔭 Currently working on: **Momento**, an event management full-stack project. 
 - 🌱 Learning: **System Design & Scalable Architecture**  
 - 🤝 Open to collaborate on **Frontend & Backend Projects**  
-- 💻 All my projects: [Portfolio Coming Soon](https://www.link.com/in/)  
+- 💻 All my projects: [Portfolio](https://create-source1.github.io/)  
 - 📫 Reach me at: **jaiswalpj13@gmail.com**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun Fact: **I have worked with chemicals 👩‍🔬**
