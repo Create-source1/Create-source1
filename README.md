@@ -37,7 +37,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=create-source1" alt="create-source1" /></a> </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=create-source1&" alt="create-source1" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting!+👋;Hope+you+enjoyed+my+profile.+😄">
