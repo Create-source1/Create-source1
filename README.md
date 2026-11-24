@@ -16,9 +16,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=create-source1&label=Profile%20views&color=0E75B6&style=flat" alt="create-source1" /> </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/chem-to-code.svg" alt="Animation: a spinning molecule sends events through a service, a Kafka topic and a consumer" width="100%" />
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:50C878,100:0E75B6&height=2" width="100%" alt="divider" />
 
